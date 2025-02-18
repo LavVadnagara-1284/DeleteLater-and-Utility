@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naming Utility</title>
+</head>
+
+<body style="background-color: #212121; color: white; font-family: monospace; text-align: center;">
+    <h1>Naming Utility</h1>
+    <input type="text" id="inputText" placeholder="Enter text here" style="width: 50%; height: 2rem;"><br><br>
+    <button type="button" id="submitBtn" style="width: 6rem; height: 2.3rem;">Submit</button>
+    <p id="output"></p>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            document.getElementById("inputText").focus();
+        });
+
+        const formatText = (str) => str.trim().replace(/\s+/g, '-');
+
+        document.getElementById('submitBtn').addEventListener('click', () => {
+            const inputField = document.getElementById('inputText');
+            const outputField = document.getElementById('output');
+            let inputText = inputField.value.trim();
+
+            if (inputText === '') {
+                outputField.textContent = "Please enter some text.";
+                return;
+            }
+
+            outputField.innerHTML = `<div>Updated Text:</div><br><h2>${formatText(inputText)}</h2>`;
+            inputField.value = '';  // Clear input after submission
+            inputField.focus();  // Refocus on input field for convenience
+        });
+    </script>
+</body>
+
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naming Utility</title>
+</head>
+
+<body style="background-color: #212121; color: white; font-family: monospace; text-align: center;">
+    <h1>Naming Utility</h1>
+    <input type="text" id="inputText" placeholder="Enter text here" style="width: 50%; height: 2rem;" ><br><br>
+    <button type="button" id="submitBtn" style="width: 6rem; height: 2.3rem;">Submit</button>
+    <p id="output"></p>
+
+    <script>
+        function removeWhiteSpaces(str) {
+            return str.trim().replace(/\s+/g, '-');
+        }
+
+        document.getElementById('submitBtn').addEventListener('click', function () {
+            let inputText = document.getElementById('inputText').value.trim();
+            if (inputText === '') {
+                document.getElementById('output').textContent = "Please enter some text.";
+                return;
+            }
+
+            let updatedText = removeWhiteSpaces(inputText);
+            document.getElementById('output').innerHTML = `<div>Updated Text:</div><br><h2>${updatedText}</h2>`;
+        });
+    </script>
+</body>
+
+</html> -->
