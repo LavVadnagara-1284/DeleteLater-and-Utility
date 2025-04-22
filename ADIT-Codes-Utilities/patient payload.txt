@@ -1,0 +1,2069 @@
+Get?id=11295391	200	xhr	ruxitagentjs_ICA7NQVfhqrux_10309250310100759.js:253	23.7 kB	427 m
+
+{
+    "Id": 11295391,
+    "PatientUid": "86A3C44A-8255-4D96-844C-E5EB5F685B52",
+    "LastName": "TEST",
+    "FirstName": "TEST",
+    "NickName": "",
+    "SocialSecurityNumber": null,
+    "MiddleInitial": "",
+    "DateOfBirth": "8/2/2007",
+    "PhoneNumber": null,
+    "Title": 68,
+    "MedicalRecordNumber": "62559",
+    "Provider": 0,
+    "HomeOffice": "0013472",
+    "Email": null,
+    "Sex": "M",
+    "Age": "17",
+    "Deceased": false,
+    "IsPatientMerged": false,
+    "SpecialNeeds": false,
+    "Active": true,
+    "LastExamDate": "4/8/2024",
+    "Activities": [],
+    "Occupation": 0,
+    "Address": {
+        "AddressId": 14469842,
+        "AddressTypeId": 73,
+        "Address1": "Add One",
+        "Address2": "Add Two",
+        "City": "Nu",
+        "State": "NY",
+        "ZipCode": "07581",
+        "IsPrimary": true,
+        "AddressType": "Home",
+        "Country": "United States",
+        "CountryId": 741
+    },
+    "PrimaryPhone": "(545) 454-5456",
+    "PrimaryPhoneType": 306,
+    "PrimaryPhoneCallTime": 289,
+    "IsBadPhonePrimary": false,
+    "SecondaryPhone": "(121) 541-2315",
+    "SecondaryPhoneType": 306,
+    "SecondaryPhoneCallTime": 289,
+    "IsBadPhoneSecondary": false,
+    "EmploymentStatus": 0,
+    "MaritalStatus": 296,
+    "Races": [
+        430
+    ],
+    "Ethnicity": 424,
+    "PreferredLanguage": 441,
+    "CommunicationPreference": 3,
+    "Referral": 317,
+    "IsEmailForRecalls": false,
+    "IsEmailForPromotions": false,
+    "IsDoNotSendMailOffers": false,
+    "IsHipaaSignatureOnFile": true,
+    "CountryId": 0,
+    "TitleTypes": [
+        {
+            "Description": "Mr",
+            "Key": 68,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mrs",
+            "Key": 69,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dr",
+            "Key": 70,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ms",
+            "Key": 71,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Miss",
+            "Key": 72,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Master",
+            "Key": 90059,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Father",
+            "Key": 763,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sister",
+            "Key": 764,
+            "KeyValue": 0
+        }
+    ],
+    "OccupationTypes": [
+        {
+            "Description": "Agriculture / Farming",
+            "Key": 90046,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Analyst",
+            "Key": 90039,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Arts / Entertainment",
+            "Key": 53,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Attorney",
+            "Key": 47,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Child / Student",
+            "Key": 63,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Computer Field",
+            "Key": 48,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Customer Service",
+            "Key": 90060,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Data Entry",
+            "Key": 90034,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Electrician",
+            "Key": 90061,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Engineer",
+            "Key": 50,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Fashion Designer",
+            "Key": 90040,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Fire Fighter",
+            "Key": 90050,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Food Service / Hospitality",
+            "Key": 64,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Homemaker",
+            "Key": 59,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Human Resources - Ceo/Pres/Cfo",
+            "Key": 90019,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Industrial / Auto Worker",
+            "Key": 52,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Information Technology (IT)",
+            "Key": 90035,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Law Enforcement",
+            "Key": 90031,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mechanic",
+            "Key": 90036,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Medical / Health Services",
+            "Key": 49,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Military",
+            "Key": 90047,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ministry",
+            "Key": 90037,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Nursing",
+            "Key": 60,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Outdoor - Recreational",
+            "Key": 55,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Outdoor Worker",
+            "Key": 54,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Pharmaceutical",
+            "Key": 90063,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Pilot",
+            "Key": 90048,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Plumber / Carpenter",
+            "Key": 56,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Prof / Office Worker",
+            "Key": 46,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Retail",
+            "Key": 90033,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Retired",
+            "Key": 61,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sales",
+            "Key": 57,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Science / Research",
+            "Key": 51,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Security",
+            "Key": 90032,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Software Engineer",
+            "Key": 90049,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Student",
+            "Key": 58,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Teacher",
+            "Key": 62,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Truck Driver",
+            "Key": 90065,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Wine Industry",
+            "Key": 90029,
+            "KeyValue": 0
+        }
+    ],
+    "ActivityTypes": [
+        {
+            "Description": "Aerobics",
+            "Key": 29,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Archery",
+            "Key": 1,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Arts / Crafts",
+            "Key": 40,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Badminton",
+            "Key": 17,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Baseball",
+            "Key": 6,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Basketball",
+            "Key": 2,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bicycling",
+            "Key": 7,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Boating / Sailing",
+            "Key": 12,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bowling",
+            "Key": 35,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Camping",
+            "Key": 27,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Computers",
+            "Key": 44,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Cycling / Running",
+            "Key": 8,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dancing",
+            "Key": 31,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Fishing",
+            "Key": 13,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Flying",
+            "Key": 90056,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Football",
+            "Key": 14,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Gardening",
+            "Key": 42,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Golf",
+            "Key": 18,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hockey",
+            "Key": 3,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Horseback Riding",
+            "Key": 22,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hunting",
+            "Key": 25,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Jet Skiing",
+            "Key": 26,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Lacrosse",
+            "Key": 36,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mountain Climbing",
+            "Key": 28,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Music",
+            "Key": 43,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Racquet Ball",
+            "Key": 9,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Reading",
+            "Key": 38,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Roller Blading",
+            "Key": 32,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Scubadive / Snorkel",
+            "Key": 23,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Skating",
+            "Key": 19,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Snow Mobiling",
+            "Key": 24,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Snow Skiing",
+            "Key": 10,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Soccer",
+            "Key": 33,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Squash",
+            "Key": 15,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Stamp / Coin Collection",
+            "Key": 41,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Swimming",
+            "Key": 11,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tennis",
+            "Key": 4,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Track And Field",
+            "Key": 34,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Volleyball",
+            "Key": 20,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Walking",
+            "Key": 37,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Water Skiing",
+            "Key": 5,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Weight Lifting",
+            "Key": 30,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Windsurfing / Surfing",
+            "Key": 21,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Woodworking",
+            "Key": 45,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Writing",
+            "Key": 39,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Xcountry Skiing",
+            "Key": 16,
+            "KeyValue": 0
+        }
+    ],
+    "PhoneTypes": [
+        {
+            "Description": "Home",
+            "Key": 304,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Work",
+            "Key": 305,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mobile",
+            "Key": 306,
+            "KeyValue": 0
+        }
+    ],
+    "CallTimeTypes": [
+        {
+            "Description": "Anytime",
+            "Key": 289,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Before 5:00 PM",
+            "Key": 290,
+            "KeyValue": 0
+        },
+        {
+            "Description": "After 5:00 PM",
+            "Key": 291,
+            "KeyValue": 0
+        }
+    ],
+    "OfficeProviders": [
+        {
+            "Description": "Dr. Briana Vargas",
+            "Key": 264420,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dr. EPM Setup",
+            "Key": 24846,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dr. Eyefinity Provider",
+            "Key": 24844,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dr. Luis Navarro",
+            "Key": 24836,
+            "KeyValue": 0
+        }
+    ],
+    "CompanyProviders": [],
+    "Offices": [
+        {
+            "Description": "0013472 - EDINBURG VISION CENTER",
+            "KeyValue": 0,
+            "KeyStr": "0013472"
+        }
+    ],
+    "UrgentNote": false,
+    "FollowUpNote": true,
+    "RaceTypes": [
+        {
+            "Description": "Declined to Specify",
+            "Key": 956,
+            "KeyValue": 0
+        },
+        {
+            "Description": "American Indian Or Alaska Native",
+            "Key": 430,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Asian",
+            "Key": 431,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Black Or African American",
+            "Key": 432,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Native Hawaiian or Other Pacific Islander",
+            "Key": 957,
+            "KeyValue": 0
+        },
+        {
+            "Description": "White",
+            "Key": 925,
+            "KeyValue": 0
+        }
+    ],
+    "EthnicityTypes": [
+        {
+            "Description": "Declined to Specify",
+            "Key": 958,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hispanic Or Latino",
+            "Key": 424,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Not Hispanic Or Latino",
+            "Key": 422,
+            "KeyValue": 0
+        }
+    ],
+    "EmploymentStatusTypes": [
+        {
+            "Description": "Employed",
+            "Key": 1141,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Not Employed",
+            "Key": 1142,
+            "KeyValue": 0
+        },
+        {
+            "Description": "On Active Military Duty",
+            "Key": 1143,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Retired",
+            "Key": 1144,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Self-Employed",
+            "Key": 1145,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Student",
+            "Key": 1146,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Unknown",
+            "Key": 1147,
+            "KeyValue": 0
+        }
+    ],
+    "MaritalStatusTypes": [
+        {
+            "Description": "Single",
+            "Key": 296,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Married",
+            "Key": 297,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Divorced",
+            "Key": 298,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Widowed",
+            "Key": 300,
+            "KeyValue": 0
+        }
+    ],
+    "PreferredLanguageTypes": [
+        {
+            "Description": "Declined to Specify",
+            "Key": 959,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Unspecified",
+            "Key": 26005,
+            "KeyValue": 0
+        },
+        {
+            "Description": "English",
+            "Key": 440,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Spanish; Castilian",
+            "Key": 441,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Abkhazian",
+            "Key": 960,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Afar",
+            "Key": 961,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Afrikaans",
+            "Key": 962,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Akan",
+            "Key": 963,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Albanian",
+            "Key": 964,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Amharic",
+            "Key": 965,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Arabic",
+            "Key": 966,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Aragonese",
+            "Key": 967,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Armenian",
+            "Key": 968,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Assamese",
+            "Key": 969,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Avaric",
+            "Key": 970,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Avestan",
+            "Key": 971,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Aymara",
+            "Key": 972,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Azerbaijani",
+            "Key": 973,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bambara",
+            "Key": 974,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bashkir",
+            "Key": 975,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Basque",
+            "Key": 976,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Belarusian",
+            "Key": 977,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bengali",
+            "Key": 978,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bihari languages",
+            "Key": 979,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bislama",
+            "Key": 980,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bokmål, Norwegian; Norwegian Bokmål",
+            "Key": 981,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bosnian",
+            "Key": 982,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Breton",
+            "Key": 983,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Bulgarian",
+            "Key": 984,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Burmese",
+            "Key": 985,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Catalan; Valencian",
+            "Key": 986,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Central Khmer",
+            "Key": 987,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chamorro",
+            "Key": 988,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chechen",
+            "Key": 989,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chichewa; Chewa; Nyanja",
+            "Key": 990,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chinese",
+            "Key": 991,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+            "Key": 992,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chuvash",
+            "Key": 993,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Cornish",
+            "Key": 994,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Corsican",
+            "Key": 995,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Cree",
+            "Key": 996,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Croatian",
+            "Key": 997,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Czech",
+            "Key": 998,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Danish",
+            "Key": 999,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Divehi; Dhivehi; Maldivian",
+            "Key": 1000,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dutch; Flemish",
+            "Key": 1001,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Dzongkha",
+            "Key": 1002,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Esperanto",
+            "Key": 1003,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Estonian",
+            "Key": 1004,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ewe",
+            "Key": 1005,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Faroese",
+            "Key": 1006,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Fijian",
+            "Key": 1007,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Finnish",
+            "Key": 1008,
+            "KeyValue": 0
+        },
+        {
+            "Description": "French",
+            "Key": 442,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Fulah",
+            "Key": 1009,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Gaelic; Scottish Gaelic",
+            "Key": 1010,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Galician",
+            "Key": 1011,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ganda",
+            "Key": 1012,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Georgian",
+            "Key": 1013,
+            "KeyValue": 0
+        },
+        {
+            "Description": "German",
+            "Key": 1014,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Greek, Modern (1453-)",
+            "Key": 1015,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Guarani",
+            "Key": 1016,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Gujarati",
+            "Key": 1017,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Haitian; Haitian Creole",
+            "Key": 1018,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hausa",
+            "Key": 1019,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hebrew",
+            "Key": 1020,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Herero",
+            "Key": 1021,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hindi",
+            "Key": 1022,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hiri Motu",
+            "Key": 1023,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Hungarian",
+            "Key": 1024,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Icelandic",
+            "Key": 1025,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ido",
+            "Key": 1026,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Igbo",
+            "Key": 1027,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Indonesian",
+            "Key": 1028,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Interlingua (International Auxiliary Language Association)",
+            "Key": 1029,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Interlingue; Occidental",
+            "Key": 1030,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Inuktitut",
+            "Key": 1031,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Inupiaq",
+            "Key": 1032,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Irish",
+            "Key": 1033,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Italian",
+            "Key": 1034,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Japanese",
+            "Key": 1035,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Javanese",
+            "Key": 1036,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kalaallisut; Greenlandic",
+            "Key": 1037,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kannada",
+            "Key": 1038,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kanuri",
+            "Key": 1039,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kashmiri",
+            "Key": 1040,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kazakh",
+            "Key": 1041,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kikuyu; Gikuyu",
+            "Key": 1042,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kinyarwanda",
+            "Key": 1043,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kirghiz; Kyrgyz",
+            "Key": 1044,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Komi",
+            "Key": 1045,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kongo",
+            "Key": 1046,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Korean",
+            "Key": 1047,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kuanyama; Kwanyama",
+            "Key": 1048,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Kurdish",
+            "Key": 1049,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Lao",
+            "Key": 1050,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Latin",
+            "Key": 1051,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Latvian",
+            "Key": 1052,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Limburgan; Limburger; Limburgish",
+            "Key": 1053,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Lingala",
+            "Key": 1054,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Lithuanian",
+            "Key": 1055,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Luba-Katanga",
+            "Key": 1056,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Luxembourgish; Letzeburgesch",
+            "Key": 1057,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Macedonian",
+            "Key": 1058,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Malagasy",
+            "Key": 1059,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Malay",
+            "Key": 1060,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Malayalam",
+            "Key": 1061,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Maltese",
+            "Key": 1062,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Manx",
+            "Key": 1063,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Maori",
+            "Key": 1064,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Marathi",
+            "Key": 1065,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Marshallese",
+            "Key": 1066,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mongolian",
+            "Key": 1067,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Nauru",
+            "Key": 1068,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Navajo; Navaho",
+            "Key": 1069,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ndebele, North; North Ndebele",
+            "Key": 1070,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ndebele, South; South Ndebele",
+            "Key": 1071,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ndonga",
+            "Key": 1072,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Nepali",
+            "Key": 1073,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Northern Sami",
+            "Key": 1074,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Norwegian",
+            "Key": 1075,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Norwegian Nynorsk; Nynorsk, Norwegian",
+            "Key": 1076,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Occitan (post 1500)",
+            "Key": 1077,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ojibwa",
+            "Key": 1078,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Oriya",
+            "Key": 1079,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Oromo",
+            "Key": 1080,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ossetian; Ossetic",
+            "Key": 1081,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Pali",
+            "Key": 1082,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Panjabi; Punjabi",
+            "Key": 1083,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Persian",
+            "Key": 1084,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Polish",
+            "Key": 1085,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Portuguese",
+            "Key": 1086,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Pushto; Pashto",
+            "Key": 1087,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Quechua",
+            "Key": 1088,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Romanian; Moldavian; Moldovan",
+            "Key": 1089,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Romansh",
+            "Key": 1090,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Rundi",
+            "Key": 1091,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Russian",
+            "Key": 1092,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Samoan",
+            "Key": 1093,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sango",
+            "Key": 1094,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sanskrit",
+            "Key": 1095,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sardinian",
+            "Key": 1096,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Serbian",
+            "Key": 1097,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Shona",
+            "Key": 1098,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sichuan Yi; Nuosu",
+            "Key": 1099,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sindhi",
+            "Key": 1100,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sinhala; Sinhalese",
+            "Key": 1101,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Slovak",
+            "Key": 1102,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Slovenian",
+            "Key": 1103,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Somali",
+            "Key": 1104,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sotho, Southern",
+            "Key": 1105,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sundanese",
+            "Key": 1106,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Swahili",
+            "Key": 1107,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Swati",
+            "Key": 1108,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Swedish",
+            "Key": 1109,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tagalog",
+            "Key": 1110,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tahitian",
+            "Key": 1111,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tajik",
+            "Key": 1112,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tamil",
+            "Key": 1113,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tatar",
+            "Key": 1114,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Telugu",
+            "Key": 1115,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Thai",
+            "Key": 1116,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tibetan",
+            "Key": 1117,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tigrinya",
+            "Key": 1118,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tonga (Tonga Islands)",
+            "Key": 1119,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tsonga",
+            "Key": 1120,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Tswana",
+            "Key": 1121,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Turkish",
+            "Key": 1122,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Turkmen",
+            "Key": 1123,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Twi",
+            "Key": 1124,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Uighur; Uyghur",
+            "Key": 1125,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Ukrainian",
+            "Key": 1126,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Urdu",
+            "Key": 1127,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Uzbek",
+            "Key": 1128,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Venda",
+            "Key": 1129,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Vietnamese",
+            "Key": 1130,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Volapük",
+            "Key": 1131,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Walloon",
+            "Key": 1132,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Welsh",
+            "Key": 1133,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Western Frisian",
+            "Key": 1134,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Wolof",
+            "Key": 1135,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Xhosa",
+            "Key": 1136,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Yiddish",
+            "Key": 1137,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Yoruba",
+            "Key": 1138,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Zhuang; Chuang",
+            "Key": 1139,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Zulu",
+            "Key": 1140,
+            "KeyValue": 0
+        }
+    ],
+    "CommunicationPreferenceTypes": [
+        {
+            "Description": "Email",
+            "Key": 2,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Mail",
+            "Key": 1,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Phone",
+            "Key": 3,
+            "KeyValue": 0
+        }
+    ],
+    "ReferredByTypes": [
+        {
+            "Description": "Advertising",
+            "Key": 163,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Corporate",
+            "Key": 169,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Patient",
+            "Key": 165,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Direct Mailer",
+            "Key": 164,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Doctor",
+            "Key": 160,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Employer",
+            "Key": 171,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Drive By",
+            "Key": 317,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Employee",
+            "Key": 162,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Family Member",
+            "Key": 318,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Health Fair",
+            "Key": 323,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Insurance",
+            "Key": 320,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Intro Mailer",
+            "Key": 167,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Monitor",
+            "Key": 324,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Newspaper",
+            "Key": 168,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Non Referral",
+            "Key": 158,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Outside Provider",
+            "Key": 161,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Radio",
+            "Key": 170,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Recall Letter",
+            "Key": 166,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Friend",
+            "Key": 929,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Store",
+            "Key": 159,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Website",
+            "Key": 322,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Yellow Pages",
+            "Key": 319,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Yelp",
+            "Key": 90027,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Google+",
+            "Key": 90028,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Walk-In",
+            "Key": 90030,
+            "KeyValue": 0
+        },
+        {
+            "Description": "ZocDoc",
+            "Key": 90057,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Neighborhood Ad",
+            "Key": 90812,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Chamber Of Commerce Directory",
+            "Key": 90813,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Magazine Ad",
+            "Key": 90814,
+            "KeyValue": 0
+        },
+        {
+            "Description": "School Directory",
+            "Key": 90815,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Downtown Shopping Ad",
+            "Key": 90816,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Event Participation",
+            "Key": 90817,
+            "KeyValue": 0
+        }
+    ],
+    "Countries": [
+        {
+            "Description": "United States",
+            "Key": 741,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Canada",
+            "Key": 742,
+            "KeyValue": 0
+        }
+    ],
+    "ProfileFieldsPreference": [
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsAddressRequired"
+        },
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsBirthDateRequired"
+        },
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsEmailRequired"
+        },
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsMeaningfulUseMandatory"
+        },
+        {
+            "Description": "false",
+            "KeyValue": 0,
+            "KeyStr": "IsTitleRequired"
+        },
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsPrimaryPhoneRequired"
+        },
+        {
+            "Description": "false",
+            "KeyValue": 0,
+            "KeyStr": "IsSsnRequired"
+        },
+        {
+            "Description": "true",
+            "KeyValue": 0,
+            "KeyStr": "IsHipaaSignatureOnFileRequired"
+        }
+    ],
+    "ResponsiblePartyId": 11300853,
+    "ResponsibleName": "Patient Test",
+    "EmployerName": "",
+    "PatientInsuranceId": 2631273,
+    "CopyFromPatient": 0,
+    "IsPatient": true,
+    "OutstandingBalance": 1737,
+    "PatientCredit": 0,
+    "PatientInsuranceBalance": 0,
+    "ProviderName": null,
+    "IsResponsibleParty": false,
+    "IsTextForApptNotifications": false,
+    "IsTextForOrderNotifications": false,
+    "IsEmailForApptNotifications": false,
+    "IsEmailForOrderNotifications": false,
+    "IsBadAddress": false,
+    "IsBadEmail": false,
+    "IsEmailDeclinedToShare": true,
+    "SignatureDate": "",
+    "PatientCommunicationMethods": [
+        {
+            "PatientCommunicationId": 10434762,
+            "PatientId": 11295391,
+            "EventTypeId": 1,
+            "Description": "Recalls",
+            "Call": true,
+            "Email": false,
+            "Text": true,
+            "Mail": false
+        },
+        {
+            "PatientCommunicationId": 31877357,
+            "PatientId": 11295391,
+            "EventTypeId": 2,
+            "Description": "Appointment",
+            "Call": true,
+            "Email": false,
+            "Text": true,
+            "Mail": false
+        },
+        {
+            "PatientCommunicationId": 55665356,
+            "PatientId": 11295391,
+            "EventTypeId": 3,
+            "Description": "Product Pick Up",
+            "Call": true,
+            "Email": false,
+            "Text": true,
+            "Mail": false
+        },
+        {
+            "PatientCommunicationId": 71837755,
+            "PatientId": 11295391,
+            "EventTypeId": 4,
+            "Description": "Marketing Promo",
+            "Call": true,
+            "Email": false,
+            "Text": true,
+            "Mail": true
+        },
+        {
+            "PatientCommunicationId": 92718150,
+            "PatientId": 11295391,
+            "EventTypeId": 5,
+            "Description": "Education",
+            "Call": true,
+            "Email": false,
+            "Text": true,
+            "Mail": false
+        }
+    ],
+    "Suffix": 0,
+    "SuffixTypes": [
+        {
+            "Description": "Jr.",
+            "Key": 90821,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Sr.",
+            "Key": 90822,
+            "KeyValue": 0
+        },
+        {
+            "Description": "II",
+            "Key": 90823,
+            "KeyValue": 0
+        },
+        {
+            "Description": "III",
+            "Key": 90824,
+            "KeyValue": 0
+        },
+        {
+            "Description": "IV",
+            "Key": 90825,
+            "KeyValue": 0
+        },
+        {
+            "Description": "V",
+            "Key": 90826,
+            "KeyValue": 0
+        },
+        {
+            "Description": "VI",
+            "Key": 90827,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Esq.",
+            "Key": 90828,
+            "KeyValue": 0
+        },
+        {
+            "Description": "CPA",
+            "Key": 90829,
+            "KeyValue": 0
+        },
+        {
+            "Description": "DC",
+            "Key": 90830,
+            "KeyValue": 0
+        },
+        {
+            "Description": "DDS",
+            "Key": 90831,
+            "KeyValue": 0
+        },
+        {
+            "Description": "VM",
+            "Key": 90832,
+            "KeyValue": 0
+        },
+        {
+            "Description": "JD",
+            "Key": 90833,
+            "KeyValue": 0
+        },
+        {
+            "Description": "MD",
+            "Key": 90834,
+            "KeyValue": 0
+        },
+        {
+            "Description": "PhD",
+            "Key": 90835,
+            "KeyValue": 0
+        },
+        {
+            "Description": "DO",
+            "Key": 90909,
+            "KeyValue": 0
+        }
+    ],
+    "ReferralEntityID": 0,
+    "IsPatientHold": false,
+    "ShowUnknownGender": false,
+    "HasInsurance": true,
+    "IsLifeStyleQuestionEnabled": false,
+    "IsReview": false,
+    "Relationships": [
+        {
+            "Description": "Child / Dependent",
+            "Key": 303,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Domestic Partner",
+            "Key": 3009,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Other",
+            "Key": 310,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Self",
+            "Key": 301,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Spouse",
+            "Key": 302,
+            "KeyValue": 0
+        },
+        {
+            "Description": "Student",
+            "Key": 3004,
+            "KeyValue": 0
+        }
+    ],
+    "EnforceResponsiblePartyForMinor": false,
+    "IsMinor": true,
+    "RequireDemographicsforOrderCreation": false,
+    "SignatureOnInsuranceFile": false,
+    "Diabetes": false
+}

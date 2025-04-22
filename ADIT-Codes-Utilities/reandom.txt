@@ -1,0 +1,14 @@
+PlanetDDS/Denticon
+export const CONSTANTS = {
+   live: {
+      Denticon: "ehrmaster|01839991-cdfe-430b-b38d-766af6cf1657",
+   },
+   betagChatError: {
+      Denticon:
+         "https://chat.googleapis.com/v1/spaces/AAQAg5FKjco/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=Ek-NJynVHX7B2ya7nWX9DDsnrhT3WNBjF4U8I4XPo2o",
+   },
+   livegChatError: {
+      Denticon:
+         "https://chat.googleapis.com/v1/spaces/AAQA8gYNmlE/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=avahHYbj65cXmUcwSOIO-RzVM6CJc_4ieEDeMJMJ58k",
+   },
+};

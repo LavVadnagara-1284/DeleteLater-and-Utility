@@ -1,0 +1,254 @@
+{
+  "took": 0,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 5,
+      "relation": "eq"
+    },
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "ehr_patients",
+        "_id": "P20001",
+        "_score": 1,
+        "_source": {
+          "patient_id": "P20001",
+          "name": {
+            "first": "Rohan",
+            "last": "Mehta"
+          },
+          "dob": "1990-07-21",
+          "gender": "Male",
+          "contact": {
+            "phone": "9812345678",
+            "email": "rohan.mehta@example.com"
+          },
+          "address": {
+            "street": "Janpath Lane",
+            "city": "Delhi",
+            "state": "Delhi",
+            "zip": "110011"
+          },
+          "medical_history": [
+            {
+              "condition": "Diabetes",
+              "diagnosed_on": "2019-10-10",
+              "treatment": "Insulin Therapy"
+            }
+          ],
+          "prescriptions": [
+            {
+              "medication": "Metformin",
+              "dosage": "500mg",
+              "frequency": "Twice daily",
+              "prescribed_on": "2024-03-01"
+            }
+          ],
+          "appointments": [
+            {
+              "doctor": "Dr. Ahuja",
+              "specialty": "Endocrinology",
+              "date": "2024-04-12",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      },
+      {
+        "_index": "ehr_patients",
+        "_id": "P20002",
+        "_score": 1,
+        "_source": {
+          "patient_id": "P20002",
+          "name": {
+            "first": "Neha",
+            "last": "Bansal"
+          },
+          "dob": "1985-02-15",
+          "gender": "Female",
+          "contact": {
+            "phone": "9876543211",
+            "email": "neha.bansal@example.com"
+          },
+          "address": {
+            "street": "Baner Road",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip": "411045"
+          },
+          "medical_history": [
+            {
+              "condition": "Hypertension",
+              "diagnosed_on": "2017-06-20",
+              "treatment": "Blood Pressure Medication"
+            }
+          ],
+          "prescriptions": [
+            {
+              "medication": "Losartan",
+              "dosage": "50mg",
+              "frequency": "Once daily",
+              "prescribed_on": "2024-03-02"
+            }
+          ],
+          "appointments": [
+            {
+              "doctor": "Dr. Ramesh",
+              "specialty": "Cardiology",
+              "date": "2024-04-08",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      },
+      {
+        "_index": "ehr_patients",
+        "_id": "P20003",
+        "_score": 1,
+        "_source": {
+          "patient_id": "P20003",
+          "name": {
+            "first": "Amit",
+            "last": "Gupta"
+          },
+          "dob": "1998-12-03",
+          "gender": "Male",
+          "contact": {
+            "phone": "9123456780",
+            "email": "amit.gupta@example.com"
+          },
+          "address": {
+            "street": "BTM Layout",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "zip": "560076"
+          },
+          "medical_history": [
+            {
+              "condition": "Asthma",
+              "diagnosed_on": "2009-08-14",
+              "treatment": "Inhalers"
+            }
+          ],
+          "prescriptions": [
+            {
+              "medication": "Budesonide",
+              "dosage": "200mcg",
+              "frequency": "Twice daily",
+              "prescribed_on": "2024-03-03"
+            }
+          ],
+          "appointments": [
+            {
+              "doctor": "Dr. Sinha",
+              "specialty": "Pulmonology",
+              "date": "2024-03-27",
+              "status": "Completed"
+            }
+          ]
+        }
+      },
+      {
+        "_index": "ehr_patients",
+        "_id": "P20004",
+        "_score": 1,
+        "_source": {
+          "patient_id": "P20004",
+          "name": {
+            "first": "Simran",
+            "last": "Kaur"
+          },
+          "dob": "1993-05-09",
+          "gender": "Female",
+          "contact": {
+            "phone": "9009876543",
+            "email": "simran.kaur@example.com"
+          },
+          "address": {
+            "street": "Sector 17",
+            "city": "Chandigarh",
+            "state": "Punjab",
+            "zip": "160017"
+          },
+          "medical_history": [
+            {
+              "condition": "Thyroid Disorder",
+              "diagnosed_on": "2016-04-30",
+              "treatment": "Thyroid Hormone Therapy"
+            }
+          ],
+          "prescriptions": [
+            {
+              "medication": "Levothyroxine",
+              "dosage": "75mcg",
+              "frequency": "Once daily",
+              "prescribed_on": "2024-03-04"
+            }
+          ],
+          "appointments": [
+            {
+              "doctor": "Dr. Sharma",
+              "specialty": "Endocrinology",
+              "date": "2024-03-28",
+              "status": "Upcoming"
+            }
+          ]
+        }
+      },
+      {
+        "_index": "ehr_patients",
+        "_id": "P20005",
+        "_score": 1,
+        "_source": {
+          "patient_id": "P20005",
+          "name": {
+            "first": "Vikram",
+            "last": "Singh"
+          },
+          "dob": "1982-11-25",
+          "gender": "Male",
+          "contact": {
+            "phone": "9811122233",
+            "email": "vikram.singh@example.com"
+          },
+          "address": {
+            "street": "DLF Phase 3",
+            "city": "Gurgaon",
+            "state": "Haryana",
+            "zip": "122002"
+          },
+          "medical_history": [
+            {
+              "condition": "Chronic Kidney Disease",
+              "diagnosed_on": "2021-07-10",
+              "treatment": "Dialysis"
+            }
+          ],
+          "prescriptions": [
+            {
+              "medication": "Erythropoietin",
+              "dosage": "5000 IU",
+              "frequency": "Twice weekly",
+              "prescribed_on": "2024-03-05"
+            }
+          ],
+          "appointments": [
+            {
+              "doctor": "Dr. Kapoor",
+              "specialty": "Nephrology",
+              "date": "2024-04-03",
+              "status": "Scheduled"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
