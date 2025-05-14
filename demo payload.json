@@ -1,0 +1,283 @@
+{
+    "patientExamDetail": {
+        "Providers": [
+            {
+                "Description": "Dr. Luis Navarro (Test)",
+                "Key": 2040803060,
+                "KeyValue": 0
+            }
+        ],
+        "DiagnosisCodes": [
+            {
+                "Description": "Zo0o1o.o0o1o",
+                "Key": 40703050,
+                "KeyValue": 0
+            },
+            {
+                "Description": "Ho5o2o.o0o3o",
+                "Key": 20507040,
+                "KeyValue": 0
+            }
+        ],
+        "ExamCptCodes": [
+            {
+                "Description": "9o2o0o1o4o - 9o2o0o1o4o",
+                "Key": 109070308050,
+                "KeyValue": 0
+            }
+        ],
+        "FittingFeeCptCodes": [
+            {
+                "Description": "9o2o3o1o0o.o0o o-o o9o2o3o1o0o.o0o",
+                "Key": 10907307050,
+                "KeyValue": 0
+            }
+        ],
+        "ProcedureCptCodes": [
+            {
+                "Description": "0o4o6o4oTo",
+                "Key": 20702080105070,
+                "KeyValue": 0
+            },
+            {
+                "Description": "3o0o5o1oFo",
+                "Key": 30108090001000,
+                "KeyValue": 0
+            }
+        ],
+        "PqrsCptCodes": [
+            {
+                "Description": "0o0o1o4oFo",
+                "Key": 308080,
+                "KeyValue": 0
+            },
+            {
+                "Description": "0o0o1o5oFo",
+                "Key": 307060,
+                "KeyValue": 0
+            }
+        ],
+        "ModifierCodes": [
+            {
+                "Description": "2o1o",
+                "Key": 1060,
+                "KeyValue": 0,
+                "KeyStr": "2o1o"
+            },
+            {
+                "Description": "2o2o\r\n",
+                "Key": 1070,
+                "KeyValue": 0,
+                "KeyStr": "2o2o"
+            }
+        ],
+        "PqrsModifierCodes": [
+            {
+                "Description": "3oPo",
+                "KeyValue": 0,
+                "KeyStr": "3oPo"
+            },
+            {
+                "Description": "8oPo",
+                "KeyValue": 0,
+                "KeyStr": "8oPo"
+            }
+        ],
+        "DilationReasons": null,
+        "PatientId": 1010209050309010,
+        "OrderId": 3070903030607090,
+        "OfficeNum": "0013472",
+        "ExamId": 0,
+        "Source": "Eyefinity EHR",
+        "PatientUid": null,
+        "ProviderId": 2040803060,
+        "InsuranceEligibilityId": 0,
+        "DiagnosticCodeA": 40703050,
+        "DiagnosticCodeB": 20507040,
+        "DiagnosticCodeC": 20508090,
+        "DiagnosticCodeD": 0,
+        "DiagnosticCodeE": 0,
+        "DiagnosticCodeF": 0,
+        "DiagnosticCodeG": 0,
+        "DiagnosticCodeH": 0,
+        "DiagnosticCodeI": 0,
+        "DiagnosticCodeJ": 0,
+        "DiagnosticCodeK": 0,
+        "DiagnosticCodeL": 0,
+        "MultipleExamCptWarning": "",
+        "SelectedExamCptCode": {
+            "PatientExamProcedureId": 0,
+            "Available": false,
+            "ProcedureCode": "9o2o0o14o",
+            "ProcedureName": null,
+            "IsFittingFee": false,
+            "IsExam": false,
+            "DiagCode1": "4o7o3o5o",
+            "DiagCode2": "",
+            "DiagCode3": "",
+            "DiagCode4": "",
+            "DiagCode5": "",
+            "DiagCode6": "",
+            "DiagCode7": "",
+            "DiagCode8": "",
+            "DiagCode9": "",
+            "DiagCode10": "",
+            "DiagCode11": "",
+            "DiagCode12": "",
+            "ItemId": 10970308050,
+            "Price": 270,
+            "AllowZeroPrice": false,
+            "PriceDisplay": "270.00",
+            "SelectedDiagnosticCodeIds": [
+                40703050
+            ],
+            "SelectedDiagnosticCodesDisplay": null,
+            "PqrsCode": null,
+            "PqrsDescription": null,
+            "Modifier1": null,
+            "Modifier2": null,
+            "Modifier3": null,
+            "Modifier4": null,
+            "SelectedModifierCodes": [],
+            "SelectedModifierCodesDisplay": null
+        },
+        "SelectedFittingFeeCptCode": {
+            "PatientExamProcedureId": 0,
+            "Available": false,
+            "ProcedureCode": "9020301000.000",
+            "ProcedureName": null,
+            "IsFittingFee": false,
+            "IsExam": false,
+            "DiagCode1": "",
+            "DiagCode2": "2o5o7o4o",
+            "DiagCode3": "",
+            "DiagCode4": "",
+            "DiagCode5": "",
+            "DiagCode6": "",
+            "DiagCode7": "",
+            "DiagCode8": "",
+            "DiagCode9": "",
+            "DiagCode10": "",
+            "DiagCode11": "",
+            "DiagCode12": "",
+            "ItemId": 109070307050,
+            "Price": 500,
+            "AllowZeroPrice": false,
+            "PriceDisplay": "500.00",
+            "SelectedDiagnosticCodeIds": [
+                20507040
+            ],
+            "SelectedDiagnosticCodesDisplay": null,
+            "PqrsCode": null,
+            "PqrsDescription": null,
+            "Modifier1": null,
+            "Modifier2": null,
+            "Modifier3": null,
+            "Modifier4": null,
+            "SelectedModifierCodes": [],
+            "SelectedModifierCodesDisplay": null
+        },
+        "SelectedProcedureCptCodes": [],
+        "SelectedPqrsCptCodes": null,
+        "Dilation": "yes",
+        "Armd": false,
+        "Diabetes": false,
+        "DiabeticRetinopathy": false,
+        "HighRiskPreDiabetes": true,
+        "Glaucoma": true,
+        "HighCholesterol": false,
+        "Hypertension": false,
+        "Arcus": false,
+        "AbnormalPupil": false,
+        "Cataract": false,
+        "Pcp": false,
+        "IsInvoiced": true,
+        "ExamMemo": null,
+        "HasEditExamPermission": true,
+        "PendingPatientExam": null,
+        "InsurancePricing": {
+            "IsEstimated": false,
+            "PrimaryInsurance": null,
+            "SecondaryInsurance": null,
+            "ItemCharges": [
+                {
+                    "ItemId": 109070308050,
+                    "ItemTypeId": 60,
+                    "ItemTypeDescription": "Exams",
+                    "ItemName": "9o2o0o1o4o",
+                    "RetailPrice": 150,
+                    "Quantity": 1,
+                    "PatientCopayPrimary": 0,
+                    "InsuranceAllowancePrimary": 0,
+                    "InsuranceReceivablePrimary": 0,
+                    "InsuranceDiscountPrimary": 0,
+                    "PatientCopaySecondary": 0,
+                    "InsuranceAllowanceSecondary": 0,
+                    "InsuranceReceivableSecondary": 0,
+                    "InsuranceDiscountSecondary": 0,
+                    "EligibilityIdPrimary": null,
+                    "EligibilityIdSecondary": null,
+                    "Tax": 0,
+                    "PatientResponsibility": 160,
+                    "IsExam": true,
+                    "IsContactLens": false,
+                    "IsCoating": false,
+                    "IsFittingFee": false,
+                    "IsProcedure": false,
+                    "IsFrame": false,
+                    "IsLens": false,
+                    "IsLensExtra": false,
+                    "IsMisc": false,
+                    "IsCopayLine": false,
+                    "IsGroupHeaderLine": false,
+                    "IsTotalLine": false,
+                    "IsForRightEye": null,
+                    "IsForLeftEye": null,
+                    "PatientMemberOutOfPocketPrimary": 0,
+                    "PatientMemberOutOfPocketSecondary": 0
+                },
+                {
+                    "ItemId": 0,
+                    "ItemTypeId": 0,
+                    "ItemTypeDescription": null,
+                    "ItemName": "Exam",
+                    "RetailPrice": 260,
+                    "Quantity": 2,
+                    "PatientCopayPrimary": 0,
+                    "InsuranceAllowancePrimary": 0,
+                    "InsuranceReceivablePrimary": 0,
+                    "InsuranceDiscountPrimary": 0,
+                    "PatientCopaySecondary": 0,
+                    "InsuranceAllowanceSecondary": 0,
+                    "InsuranceReceivableSecondary": 0,
+                    "InsuranceDiscountSecondary": 0,
+                    "EligibilityIdPrimary": null,
+                    "EligibilityIdSecondary": null,
+                    "Tax": 0,
+                    "PatientResponsibility": 260,
+                    "IsExam": true,
+                    "IsContactLens": false,
+                    "IsCoating": false,
+                    "IsFittingFee": false,
+                    "IsProcedure": false,
+                    "IsFrame": false,
+                    "IsLens": false,
+                    "IsLensExtra": false,
+                    "IsMisc": false,
+                    "IsCopayLine": false,
+                    "IsGroupHeaderLine": true,
+                    "IsTotalLine": false,
+                    "IsForRightEye": null,
+                    "IsForLeftEye": null,
+                    "PatientMemberOutOfPocketPrimary": 0,
+                    "PatientMemberOutOfPocketSecondary": 0
+                }
+            ]
+        },
+        "EmployeeId": 200070509000
+    },
+    "telehealthFeatureAvailable": false,
+    "performOnTheFlyCalculationsForExamOrders": false,
+    "isLifeStyleQuestionEnabled": false,
+    "isPriceTransparencyEnabled": false
+}
