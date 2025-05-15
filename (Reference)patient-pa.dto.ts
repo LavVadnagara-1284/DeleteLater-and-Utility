@@ -1,7 +1,6 @@
 import { IsArray, IsBoolean, IsNumber, IsObject, IsOptional, IsString, ValidateNested } from 'class-validator'
 import { ApiProperty } from '@nestjs/swagger';
 import { Type } from 'class-transformer';
-import { isNumber, isString } from 'lodash';
 
 //*** Start Patients DTO to sync in MsSQL ***//
 export class ParamsPatinetPaDto {
